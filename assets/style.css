@@ -1,0 +1,49 @@
+body {
+  text-align: center;
+  background-color: rgb(169, 254, 226);
+}
+h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 15em;
+  font-weight: 400;
+}
+#listDiv {
+  background-color: aqua;
+  font-size: 5em;
+}
+label {
+  font-size: 2em;
+}
+input {
+  font-size: 1em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+button {
+  font-size: 0.7em;
+  margin: 0.5em;
+  border-radius: 10%;
+  border-style: solid;
+  background-color: rgb(143, 185, 188);
+}
+
+.cardToDo {
+  font-size: 4em;
+  font-weight: 300;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(146, 197, 197);
+  border: rgb(101, 98, 98);
+  border-radius: 10%;
+  border-style: solid;
+  width: 50%;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.pline {
+  text-decoration: line-through;
+  text-decoration-color: crimson;
+}
